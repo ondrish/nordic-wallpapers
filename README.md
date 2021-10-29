@@ -16,7 +16,13 @@ This is the result after being processed by ImageGoNord:
 This one is my favourite :)
 
 ## NOTE
-Unsplash images are under a free license. More info on the found [here](https://unsplash.com/license). Most images are processed through ImageGoNord which is under the
-MIT License. Does that make these MIT?
+This repo is not inactive. I ran out of wallpapers and waiting for pull requests until I find new wallpapers😬 
 
-Only [one image](wallpapers/waves.jpg) (as far as I remember) is not processed. I saw that on [reddit](https://www.reddit.com/r/unixporn/comments/lq769l/bspwm_minimal_nord/) and downloaded from there.
+## BTW
+For Arch Linux User, you can just install these wallpapers via AUR.
+
+```bash
+paru -S nordic-wallpapers
+```
+
+You can find these wallpapers in `/usr/share/backgrounds/nordic-wallpapers/`.
